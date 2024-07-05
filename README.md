@@ -13,5 +13,5 @@ To set it up, you need a copy of half-life. If you have a copy, put the sound, s
 
 Tested devices: New Nintendo 3DS XL
 
-Please note that further updates may be basic bug fixes. Not speed improvements.
+Please note that further updates may be basic bug fixes. Not speed improvements. Further updates are extremely rare, and this may be the only version, or if this is newer than the first version, the last version.
 
