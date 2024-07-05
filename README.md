@@ -6,3 +6,5 @@ to install it, Put the valve folder into the directory that Xash3D Reads from.
 Tested: New Nintendo 3DS XL
 
 Please note that further updates may be basic bug fixes. Not speed improvements.
+
+To set it up, you need a copy of half-life. If you have a copy, put the sound, sprites, resource, scripts, models, maps, gfx, hew, levelshots, and events folder into the valve folder you downloaded from here.
